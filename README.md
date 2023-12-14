@@ -1,2 +1,4 @@
 # uilStudySession
-Learning for UIL competition
+Hello! 
+
+Skilled Learned: basics of lamba expressions and regexes
